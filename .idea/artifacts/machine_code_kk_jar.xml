@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="machine_code_kk:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/machine_code_kk_jar</output-path>
+    <root id="archive" name="machine_code_kk.jar">
+      <element id="module-output" name="machine_code_kk" />
+    </root>
+  </artifact>
+</component>
